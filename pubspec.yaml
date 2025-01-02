@@ -1,0 +1,25 @@
+name: splash_screen_project
+description: A Flutter project with a splash screen.
+
+publish_to: "none" # Set to none for a private project
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Additional dependencies (if any)
+  # Add any packages you need here, e.g., http, provider, etc.
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/

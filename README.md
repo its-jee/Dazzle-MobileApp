@@ -1,16 +1,9 @@
-# splash_screen_project
+# DazzleDetergent-Project
 
-A new Flutter project.
+This is a mobile application designed to streamline the shopping process for cleaning products. It offers an intuitive user experience, ensuring customers can easily browse, select, and purchase cleaning items. The app is tailored to provide convenience and a visually appealing interface for all users.
 
-## Getting Started
+## Features:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Powerful search functionality for quick access to items.
+- Detailed product info including descriptions, prices, and availability.
+- Shopping cart for seamless checkout.
